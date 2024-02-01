@@ -6,7 +6,7 @@ coverY: 0
 
 **Satsx：我一般只用他们的Indexer，索引速度很快**
 
-{% embed url="https://www.satsx.io/indexer/atomicals" %}
+[https://www.satsx.io/indexer/atomicals]([https://wizz.cash/btc/send](https://www.satsx.io/indexer/atomicals))&#x20;
 
 **Wizz Cash：功能很多，最好的功能是把普通比特币资产和ARC20资产分开显示，分开处理，比较常用的是：**
 
