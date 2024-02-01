@@ -1,9 +1,3 @@
----
-description: 建议收藏
-cover: .gitbook/assets/atomical logo.jpg
-coverY: 0
----
-
 # 好用的ARC20工具网址
 
 
@@ -24,8 +18,10 @@ coverY: 0
 
 [https://wizz.cash/ft/send](https://wizz.cash/ft/send)&#x20;
 
-Wizz还有浏览器插件钱包和APP钱包，大家自行探索
+3、wizz cash的加速功能也很好，比币安矿池便宜很多，比sparrow也好用
+[https://wizz.cash/accelerator](https://wizz.cash/accelerator)&#x20;
 
+Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 
 **Memepool:查看铭文交易的情况，看自己资产余额，看当前Gas费**
