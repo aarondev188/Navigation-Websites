@@ -6,21 +6,27 @@ coverY: 0
 
 **Satsx：我一般只用他们的Indexer，索引速度很快**
 
-[https://www.satsx.io/indexer/atomicals]([https://wizz.cash/btc/send](https://www.satsx.io/indexer/atomicals))&#x20;
+[https://www.satsx.io/indexer/atomicals](\[https:/wizz.cash/btc/send]\(https:/www.satsx.io/indexer/atomicals\)/)
+
+
 
 **Wizz Cash：功能很多，最好的功能是把普通比特币资产和ARC20资产分开显示，分开处理，比较常用的是：**
 
 1、Send BTC，可以一次批量转账
 
-[https://wizz.cash/btc/send](https://wizz.cash/btc/send)&#x20;
+[https://wizz.cash/btc/send](https://wizz.cash/btc/send)
 
 2、Send ARC20，可以一次给不同地址转ARC20资产
 
-{% embed url="https://wizz.cash/ft/send" %}
+[https://wizz.cash/ft/send](https://wizz.cash/ft/send)
+
+
 
 **Memepool:查看铭文交易的情况，看当前Gas费**
 
-{% embed url="https://mempool.space/" %}
+[**https://mempool.space/**](https://mempool.space/)
+
+
 
 **Bitatom:好用的交易平台**
 
