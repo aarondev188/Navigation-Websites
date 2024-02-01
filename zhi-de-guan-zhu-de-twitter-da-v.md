@@ -38,7 +38,7 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
 
 
-**部分内容关于ARC20，还有其他铭文或技术的Twitter号：**
+:tada:**部分内容关于ARC20，还有其他铭文或技术的Twitter号：**
 
 **NextDao联合创始人:**[https://twitter.com/\_0xSea\_](https://twitter.com/\_0xSea\_)
 
