@@ -12,6 +12,8 @@ coverY: 0
 
 **--WizzCash钱包，可以关注他们的新功能，进而了解协议动向:**[https://twitter.com/wizzwallet](https://twitter.com/wizzwallet)
 
+\--**Atomicals Market的官推**：[https://twitter.com/atomicalsmarket](https://twitter.com/atomicalsmarket)
+
 \--**金狗博士,有很多对ARC20的真知灼见:**[https://twitter.com/ordjingle](https://twitter.com/ordjingle)
 
 **--Bitatom的创始人Zen，项目进展+真知灼见:**[https://twitter.com/zen913](https://twitter.com/zen913)
@@ -32,6 +34,8 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
 \+Thoth：[https://twitter.com/Thoth\_Bitcoin](https://twitter.com/Thoth\_Bitcoin)
 
+好大一坨：[https://twitter.com/Pow2wer](https://twitter.com/Pow2wer)
+
 
 
 **部分内容关于ARC20，还有其他铭文或技术的Twitter号：**
@@ -46,7 +50,9 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
 
 
+***
 
+_欢迎本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
 
 
 

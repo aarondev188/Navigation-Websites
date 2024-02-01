@@ -41,3 +41,7 @@ coverY: 0
 **Atomicalmarket：最早的交易平台，偶尔用一次做补充，做交易看行情**
 
 [https://atomicalmarket.com/](https://atomicalmarket.com/)
+
+***
+
+_欢迎本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
