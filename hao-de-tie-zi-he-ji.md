@@ -25,3 +25,7 @@ coverY: 0
 :tada:**coinbase的牛人Hero写的教程**
 
 {% embed url="https://github.com/wusimpl/atommical-js-tools" %}
+
+***
+
+_欢迎本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)

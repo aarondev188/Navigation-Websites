@@ -17,3 +17,7 @@ coverY: 0
 :tada:金狗博士:All you need to know about Atomicals
 
 [https://www.youtube.com/watch?v=R8Bm01u14\_4](https://www.youtube.com/watch?v=R8Bm01u14\_4\&t=357s)
+
+***
+
+_欢迎本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
