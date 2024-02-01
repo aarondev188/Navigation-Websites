@@ -22,18 +22,6 @@ coverY: 0
 
 {% embed url="https://x.com/blockpunk2077/status/1733105254445862943" %}
 
-:tada:**跟AVM相关**&#x20;
-
-{% embed url="https://twitter.com/atomicalsxyz/status/1731505731579367755" %}
-
-:tada:**一文讲解atomical**&#x20;
-
-{% embed url="https://followin.io/zh-Hans/feed/6842628/ZnJvbT13ZWJzaGFyZSZpYz1kYXl1JnN1PTQwNzU2NjY5MDgmdGltZXpvbmU9OCZ0cz0xNzAxNjU3NTE5NjE5" %}
-
-:tada:**小白教程**&#x20;
-
-{% embed url="https://twitter.com/wanghebbf/status/1739403596985507948" %}
-
 :tada:**coinbase的牛人Hero写的教程**
 
 {% embed url="https://github.com/wusimpl/atommical-js-tools" %}

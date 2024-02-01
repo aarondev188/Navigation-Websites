@@ -12,8 +12,8 @@ coverY: 0
 
 :smile:金狗博士: Atomicals Dev Talk with BitVM Author Robin
 
-[https://www.youtube.com/watch?v=bw7RGFWqqgk\&t=170s](https://www.youtube.com/watch?v=bw7RGFWqqgk\&t=170s)
+[https://www.youtube.com/watch?v=bw7RGFWqqgk](https://www.youtube.com/watch?v=bw7RGFWqqgk\&t=170s)
 
 :tada:金狗博士:All you need to know about Atomicals
 
-[https://www.youtube.com/watch?v=R8Bm01u14\_4\&t=357s](https://www.youtube.com/watch?v=R8Bm01u14\_4\&t=357s)
+[https://www.youtube.com/watch?v=R8Bm01u14\_4](https://www.youtube.com/watch?v=R8Bm01u14\_4\&t=357s)
