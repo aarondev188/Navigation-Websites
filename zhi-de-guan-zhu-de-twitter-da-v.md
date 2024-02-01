@@ -1,5 +1,7 @@
 ---
-description: 建议用不同的标签页点开
+description: 建议用不同的标签页点开，
+cover: .gitbook/assets/logo2.jpeg
+coverY: 0
 ---
 
 # 值得关注的Twitter大V
@@ -28,11 +30,21 @@ Lin:[https://twitter.com/LinShuKal](https://twitter.com/LinShuKal)
 
 Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
-
+\+Thoth：[https://twitter.com/Thoth\_Bitcoin](https://twitter.com/Thoth\_Bitcoin)
 
 
 
 **部分内容关于ARC20，还有其他铭文或技术的Twitter号：**
+
+**NextDao联合创始人:**[https://twitter.com/\_0xSea\_](https://twitter.com/\_0xSea\_)
+
+以及他创办的NextDao:[https://twitter.com/theNextDAO](https://twitter.com/theNextDAO)
+
+**博客节目ThreeBitcoiners**：[https://twitter.com/ThreeBitcoiners](https://twitter.com/ThreeBitcoiners)
+
+
+
+
 
 
 

@@ -1,9 +1,10 @@
 ---
 description: 建议收藏
+cover: .gitbook/assets/atomical logo.jpg
 coverY: 0
 ---
 
-# 好用的ARC20导航
+# 好用的ARC20工具网址
 
 
 
