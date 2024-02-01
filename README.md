@@ -22,13 +22,15 @@ coverY: 0
 
 2、Send ARC20，可以一次给不同地址转ARC20资产
 
-[https://wizz.cash/ft/send](https://wizz.cash/ft/send)
+[https://wizz.cash/ft/send](https://wizz.cash/ft/send)&#x20;
+
+Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 
 
 **Memepool:查看铭文交易的情况，看当前Gas费**
 
-[**https://mempool.space/**](https://mempool.space/)
+[https://mempool.space/](https://mempool.space/)&#x20;
 
 
 
