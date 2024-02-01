@@ -6,7 +6,7 @@ coverY: 0
 
 **Satsx：我一般只用他们的Indexer，索引速度很快**
 
-[https://www.satsx.io/indexer/atomicals](\[https:/wizz.cash/btc/send]\(https:/www.satsx.io/indexer/atomicals\)/)
+[https://www.satsx.io/indexer/atomicals](https://www.satsx.io/indexer/atomicals)
 
 
 
