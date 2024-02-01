@@ -1,5 +1,5 @@
 ---
-description: 建议用不同的标签页点开，
+description: 建议用不同的标签页点开
 cover: .gitbook/assets/logo2.jpeg
 coverY: 0
 ---
@@ -52,7 +52,7 @@ Lambert:[https://twitter.com/404Lambert](https://twitter.com/404Lambert)
 
 ***
 
-_欢迎本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
+_欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)
 
 
 
