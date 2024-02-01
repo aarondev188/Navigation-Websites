@@ -8,7 +8,7 @@ coverY: 0
 
 
 
-**Satsx：推荐常用他们的Indexer，索引速度很快**
+**Satsx：推荐常用他们的Indexer，查你的Arc20资产余额，索引速度很快**
 
 [https://www.satsx.io/indexer/atomicals](https://www.satsx.io/indexer/atomicals)
 
@@ -28,7 +28,7 @@ Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 
 
-**Memepool:查看铭文交易的情况，看当前Gas费**
+**Memepool:查看铭文交易的情况，看自己资产余额，看当前Gas费**
 
 [https://mempool.space/](https://mempool.space/)&#x20;
 
@@ -42,7 +42,15 @@ Wizz还有浏览器插件钱包和APP钱包，大家自行探索
 
 **Atomicalmarket：最早的交易平台，做交易看行情**
 
-[https://atomicalmarket.com/](https://atomicalmarket.com/)
+[https://atomicalmarket.com/](https://atomicalmarket.com/)&#x20;
+
+
+
+blockstream浏览器，看UTXO余额，把中间的比特币地址换为自己的
+
+[https://blockstream.info/api/address/](https://blockstream.info/api/address/bc1ptqltt4y4rxsz04l6ddkkhfu0qnn7fkmfr2hg7yk05ykq8dfvfgnspvdugj/utxo)bc1pa5hvv3w3wjwfktd63zcng6yeccxg9aa90e34n9jrjw3thgc52reqxw6has/[utxo](https://blockstream.info/api/address/bc1ptqltt4y4rxsz04l6ddkkhfu0qnn7fkmfr2hg7yk05ykq8dfvfgnspvdugj/utxo)
+
+
 
 ***
 
