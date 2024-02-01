@@ -8,7 +8,7 @@ coverY: 0
 
 
 
-**Satsx：我一般只用他们的Indexer，索引速度很快**
+**Satsx：推荐常用他们的Indexer，索引速度很快**
 
 [https://www.satsx.io/indexer/atomicals](https://www.satsx.io/indexer/atomicals)
 
@@ -32,13 +32,13 @@ coverY: 0
 
 
 
-**Bitatom:好用的交易平台**
+**Bitatom:很好用的交易平台**
 
 [https://bitatom.io/](https://bitatom.io/)
 
 
 
-**Atomicalmarket：最早的交易平台，偶尔用一次做补充，做交易看行情**
+**Atomicalmarket：最早的交易平台，做交易看行情**
 
 [https://atomicalmarket.com/](https://atomicalmarket.com/)
 
