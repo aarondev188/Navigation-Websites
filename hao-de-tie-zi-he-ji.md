@@ -26,6 +26,10 @@ coverY: 0
 
 {% embed url="https://github.com/wusimpl/atommical-js-tools" %}
 
+:tada:关于Realm的深度研究
+
+[https://twitter.com/dchatplatypus/status/1733341047818682786](https://twitter.com/dchatplatypus/status/1733341047818682786)
+
 ***
 
 _欢迎关注本文作者的twitter并提出宝贵意见：_[_https://twitter.com/zzmjxy_](https://twitter.com/zzmjxy)

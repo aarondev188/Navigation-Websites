@@ -10,13 +10,23 @@ coverY: 0
 
 [https://twitter.com/GeniiData/status/1750894263678763213](https://twitter.com/GeniiData/status/1750894263678763213) &#x20;
 
+
+
 :smile:金狗博士: Atomicals Dev Talk with BitVM Author Robin
 
 [https://www.youtube.com/watch?v=bw7RGFWqqgk](https://www.youtube.com/watch?v=bw7RGFWqqgk\&t=170s)
 
+
+
 :tada:金狗博士:All you need to know about Atomicals
 
 [https://www.youtube.com/watch?v=R8Bm01u14\_4](https://www.youtube.com/watch?v=R8Bm01u14\_4\&t=357s)
+
+
+
+:tada:创始人采访Discussion with Arthur From Atomicals Protocol
+
+[https://www.youtube.com/watch?v=q-uksyn3a3o](https://www.youtube.com/watch?v=q-uksyn3a3o)
 
 ***
 
